@@ -10,6 +10,7 @@ def print_hi(name):
 
 def main():
     print('Hello world')
+    print('Hello world')
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
@@ -17,3 +18,4 @@ if __name__ == '__main__':
     # print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+# a12ed2cb3ff76ca2ca8d07a34aa8881b9f1eb65d
